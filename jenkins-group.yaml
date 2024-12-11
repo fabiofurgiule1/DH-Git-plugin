@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: jenkins
+  description: "My Team focuses on DH-Jenkins integrations"
+  tags:
+    - infrastructure
+    - platform
+spec:
+  type: team
+  profile:
+    displayName: "jenkins"
+    email: my-team@jenkins.com
