@@ -11,3 +11,4 @@ spec:
   profile:
     displayName: "jenkins"
     email: my-team@jenkins.com
+  children:
