@@ -12,3 +12,4 @@ spec:
     displayName: "jenkins"
     email: my-team@jenkins.com
   children:
+    - my-subteam
